@@ -3,4 +3,4 @@ Todo-List 11 Desember 2024
 - Belajar Creatio Developer
 - Izin untuk besok
 - Membuat Daily Report
-
+- ok
